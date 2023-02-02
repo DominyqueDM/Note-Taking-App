@@ -1,0 +1,11 @@
+C:\Users\nykyd\OneDrive\Documents\Courses_reed\C#\Note Taking App\NoteTakingApp\NoteTakingApp\bin\Debug\NoteTakingApp.exe.config
+C:\Users\nykyd\OneDrive\Documents\Courses_reed\C#\Note Taking App\NoteTakingApp\NoteTakingApp\bin\Debug\NoteTakingApp.exe
+C:\Users\nykyd\OneDrive\Documents\Courses_reed\C#\Note Taking App\NoteTakingApp\NoteTakingApp\bin\Debug\NoteTakingApp.pdb
+C:\Users\nykyd\OneDrive\Documents\Courses_reed\C#\Note Taking App\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTakingApp.csproj.AssemblyReference.cache
+C:\Users\nykyd\OneDrive\Documents\Courses_reed\C#\Note Taking App\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTakingApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\nykyd\OneDrive\Documents\Courses_reed\C#\Note Taking App\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTakingApp.Form1.resources
+C:\Users\nykyd\OneDrive\Documents\Courses_reed\C#\Note Taking App\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTakingApp.Properties.Resources.resources
+C:\Users\nykyd\OneDrive\Documents\Courses_reed\C#\Note Taking App\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTakingApp.csproj.GenerateResource.cache
+C:\Users\nykyd\OneDrive\Documents\Courses_reed\C#\Note Taking App\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTakingApp.csproj.CoreCompileInputs.cache
+C:\Users\nykyd\OneDrive\Documents\Courses_reed\C#\Note Taking App\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTakingApp.exe
+C:\Users\nykyd\OneDrive\Documents\Courses_reed\C#\Note Taking App\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTakingApp.pdb
